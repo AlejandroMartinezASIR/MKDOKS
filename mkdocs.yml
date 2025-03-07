@@ -1,7 +1,0 @@
-site_name: Alejandro Martinez Uceda
-nav:
-  - Inicio: index.md
-  - Acerca de: about.md
-theme:
-  name: material
-
